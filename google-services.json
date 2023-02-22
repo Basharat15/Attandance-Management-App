@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014114175462",
+    "firebase_url": "https://attendence-system-4484f-default-rtdb.firebaseio.com",
+    "project_id": "attendence-system-4484f",
+    "storage_bucket": "attendence-system-4484f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014114175462:android:64add303e30a67b8b62e27",
+        "android_client_info": {
+          "package_name": "com.AttendenceSystem.AMS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014114175462-ug52gpctvpd893uu85htoqo2k6gfqm63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfoSw3b3SC36ZpxmRs5Zmwrs7jyoScg8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014114175462-ug52gpctvpd893uu85htoqo2k6gfqm63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
